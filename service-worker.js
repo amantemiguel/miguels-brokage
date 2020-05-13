@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/miguels-brokerage/precache-manifest.4bb5aca8db0a6c5c54f41819b9063c39.js"
+  "/miguels-brokerage/precache-manifest.9ac28f4614e878f3eae80e909da398c6.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19a42a22d3a9aa60eb9667fb665c13d2",
+    "revision": "3057be691f9c38cde40d8bb2f9eadd15",
     "url": "/miguels-brokerage/index.html"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miguels-brokerage/static/css/9.37c8f0ee.chunk.css"
   },
   {
-    "revision": "a6bbb520be1089e8fac7",
+    "revision": "e9c4baf7e8988b5adc0e",
     "url": "/miguels-brokerage/static/css/main.8390ce8f.chunk.css"
   },
   {
@@ -104,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miguels-brokerage/static/js/9.6ff83afc.chunk.js"
   },
   {
-    "revision": "a6bbb520be1089e8fac7",
-    "url": "/miguels-brokerage/static/js/main.e1b85723.chunk.js"
+    "revision": "e9c4baf7e8988b5adc0e",
+    "url": "/miguels-brokerage/static/js/main.75502ded.chunk.js"
   },
   {
     "revision": "e5d096f9e9d548643f0a",
